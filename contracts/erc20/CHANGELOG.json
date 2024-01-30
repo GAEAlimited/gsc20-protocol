@@ -1,5 +1,41 @@
 [
     {
+        "timestamp": 1700094997,
+        "version": "4.0.14",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1693346928,
+        "version": "4.0.13",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1692368658,
+        "version": "4.0.12",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
+        "timestamp": 1691617396,
+        "version": "4.0.11",
+        "changes": [
+            {
+                "note": "Dependencies updated"
+            }
+        ]
+    },
+    {
         "timestamp": 1689974915,
         "version": "4.0.10",
         "changes": [

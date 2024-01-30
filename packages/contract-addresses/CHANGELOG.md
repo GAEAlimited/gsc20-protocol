@@ -6,6 +6,18 @@ Edit the package's CHANGELOG.json file only.
 
 CHANGELOG
 
+## v8.13.0 - _November 16, 2023_
+
+    * Add Sepolia addresses
+## v8.12.0 - _August 29, 2023_
+
+    * Add VelodromeV2 support on Base
+## v8.11.0 - _August 18, 2023_
+
+    * Add MaverickV1 support on Ethereum, BSC, and Base
+## v8.10.0 - _August 9, 2023_
+
+    * Add VelodromeV2 support on Optimism
 ## v8.9.0 - _July 21, 2023_
 
     * Add Uniswap V3 router v2 support in Base FillQuoteTransformer

@@ -1,5 +1,41 @@
 [
 	{
+		"version": "8.13.0",
+		"changes": [
+			{
+				"note": "Add Sepolia addresses"
+			}
+		],
+		"timestamp": 1700094997
+	},
+	{
+		"version": "8.12.0",
+		"changes": [
+			{
+				"note": "Add VelodromeV2 support on Base"
+			}
+		],
+		"timestamp": 1693346928
+	},
+	{
+		"version": "8.11.0",
+		"changes": [
+			{
+				"note": "Add MaverickV1 support on Ethereum, BSC, and Base"
+			}
+		],
+		"timestamp": 1692368658
+	},
+	{
+		"version": "8.10.0",
+		"changes": [
+			{
+				"note": "Add VelodromeV2 support on Optimism"
+			}
+		],
+		"timestamp": 1691617396
+	},
+	{
 		"version": "8.9.0",
 		"changes": [
 			{
