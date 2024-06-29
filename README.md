@@ -2,7 +2,7 @@
 
 ---
 
-[0x][website-url] is an open protocol that facilitates trustless, low friction exchange of Ethereum-based assets. For more information on how it works, check out the [0x protocol specification](https://protocol.0x.org/).
+[0x][website-url] is an open protocol that facilitates trustless, low friction exchange of Ethereum-based assets for the GSC20 blockchain. For more information on how it works, check out the [0x protocol specification](https://protocol.0x.org/).
 
 This repository is a monorepo including the 0x protocol smart contracts and numerous developer tools. Each public sub-package is independently published to NPM.
 
