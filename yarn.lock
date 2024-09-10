@@ -2886,9 +2886,9 @@
     "@octokit/openapi-types" "^12.11.0"
 
 "@openzeppelin/contracts@^4.8.1":
-  version "4.9.3"
-  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.9.3.tgz#00d7a8cf35a475b160b3f0293a6403c511099364"
-  integrity sha512-He3LieZ1pP2TNt5JbkPA4PNT9WC3gOTOlDcFGJW4Le4QKqwmiNJCRt44APfxMxvq7OugU/cqYuPcSBzOw38DAg==
+  version "4.9.6"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.9.6.tgz#2a880a24eb19b4f8b25adc2a5095f2aa27f39677"
+  integrity sha512-xSmezSupL+y9VkHZJGDoCBpmnB2ogM13ccaYDWqJTfS3dbuHkgjuwDFUmaFauBCboQMGB/S5UqUl2y54X99BmA==
 
 "@sindresorhus/slugify@^0.8.0":
   version "0.8.0"
@@ -6978,9 +6978,9 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.3.6"
 
 follow-redirects@^1.12.1:
-  version "1.15.4"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.4.tgz#cdc7d308bf6493126b17ea2191ea0ccf3e535adf"
-  integrity sha512-Cr4D/5wlrb0z9dgERpUL3LrmPKVDsETIJhaCMeDfuFYcqa5bldGV6wBsAN6X/vxlXQtFBMrXdXxdL8CbDTGniw==
+  version "1.15.9"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.9.tgz#a604fa10e443bf98ca94228d9eebcc2e8a2c8ee1"
+  integrity sha512-gew4GsXizNgdoRyqmyfMHyAmXsZDk6mHkSxZFCzW9gwlbtOW44CDtYavM+y+72qD/Vq2l550kMF52DT8fOLJqQ==
 
 for-each@^0.3.3, for-each@~0.3.3:
   version "0.3.3"
@@ -13361,9 +13361,9 @@ ws@7.4.6:
   integrity sha512-YmhHDO4MzaDLB+M9ym/mDA5z0naX8j7SIlT8f8z+I0VtzsRbekxEutHSme7NPS2qE8StCYQNUnfWdXta/Yu85A==
 
 ws@^5.1.1:
-  version "5.2.3"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-5.2.3.tgz#05541053414921bc29c63bee14b8b0dd50b07b3d"
-  integrity sha512-jZArVERrMsKUatIdnLzqvcfydI85dvd/Fp1u/VOpfdDWQ4c9qWXe+VIeAbQ5FrDwciAkr+lzofXLz3Kuf26AOA==
+  version "5.2.4"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-5.2.4.tgz#c7bea9f1cfb5f410de50e70e82662e562113f9a7"
+  integrity sha512-fFCejsuC8f9kOSu9FYaOw8CdO68O3h5v0lg4p74o8JqWpwTf9tniOD+nOB78aWoVSS6WptVUmDrp/KPsMVBWFQ==
   dependencies:
     async-limiter "~1.0.0"
 
